@@ -7,13 +7,6 @@
 
 ### Moja strona: https://nyyn.xyz
 
-<a href="https://discord.gg/3ngdfCP4u3">
-  <img align="left" alt="nyyn_hub | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
-</a>
-
-
-<br />
-<br />
 <a href="https://discord.gg/B3XrsNzZQf">
   <img align="left" alt="nyyn_hub | Discord" src="https://media.discordapp.net/attachments/820372196165550080/832145760820658206/elo_dc.png?width=107&height=18" />
 </a>
