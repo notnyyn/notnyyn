@@ -18,5 +18,4 @@
   
 ### 💻 Discord 
 
-<img src="https://camo.githubusercontent.com/1cf143a207cfdcd54ca7c12a3a335cd1a08d6557f4f129a54d2747a5759de19f/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3639303638363430313436393038373735362f656d6265642e706e67" alt="Discord" data-canonical-src="https://discordapp.com/api/guilds/690686401469087756/embed.png" style="max-width:100%;">
-
+<iframe src="https://discordapp.com/widget?id=818561426859884617&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
