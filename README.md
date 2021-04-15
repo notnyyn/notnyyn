@@ -15,5 +15,5 @@
 <br />
 <br />
 <a href="https://discord.gg/B3XrsNzZQf">
-  <img align="left" alt="nyyn_hub | Discord" width="22px" src="https://media.discordapp.net/attachments/820372196165550080/832145760820658206/elo_dc.png?width=107&height=18" />
+  <img align="left" alt="nyyn_hub | Discord" src="https://media.discordapp.net/attachments/820372196165550080/832145760820658206/elo_dc.png?width=107&height=18" />
 </a>
