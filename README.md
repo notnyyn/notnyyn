@@ -3,12 +3,12 @@
     
 ## Welcome on my GitHub Profile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Siema jestem nyyn, zajmuje się robieniem amatorskich skryptów.
+### Siema jestem nyyn, zajmuje się przerabianiem i robieniem amatorskich skryptów lua pod fivem, jak i pisze strony internetowe.
 
 ### Moja strona: https://nyyn.xyz
 
-<a href="https://twitter.com/dhanani_brijesh">
-  <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://discord.gg/3ngdfCP4u3">
+  <img align="left" alt="nyyn_hub | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
